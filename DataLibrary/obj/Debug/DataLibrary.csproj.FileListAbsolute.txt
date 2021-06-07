@@ -1,0 +1,5 @@
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoDataAccess\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoDataAccess\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoDataAccess\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoDataAccess\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoDataAccess\DataLibrary\obj\Debug\DataLibrary.pdb
